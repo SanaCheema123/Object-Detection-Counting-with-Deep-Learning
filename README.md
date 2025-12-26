@@ -54,15 +54,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 
 ---
 
-## 📌 Setup & Installation
-
-```bash
-# Install PyTorch
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-
-# Additional dependencies
-pip install pycocotools opencv-python matplotlib ultralytics
-
 ---
 
 ## 📊 Results & Visuals
@@ -93,7 +84,14 @@ If you are interested in improving, deploying, or collaborating on this project:
 - Special thanks to the open-source community that made this project possible.
 
 ---
+## 📌 Setup & Installation
 
+```bash
+# Install PyTorch
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Additional dependencies
+pip install pycocotools opencv-python matplotlib ultralytics
 ## 📌 Final Note
 
 If you want to extend this project, it can be transformed into:
