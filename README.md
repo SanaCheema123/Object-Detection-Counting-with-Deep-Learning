@@ -67,8 +67,8 @@ You can add screenshots here:
 
 If you are interested in improving, deploying, or collaborating on this project:
 
-- **Email:** your-email-here@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-profile  
+- **Email:** sanacheema887@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sanacheema-ml-ai/
 - **Available For:** Research | Projects | Freelance | Long-term Collaboration
 
 ---
