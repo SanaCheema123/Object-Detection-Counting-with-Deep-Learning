@@ -54,6 +54,8 @@ Bounding boxes improved with dark/outlined edges for clarity
 
 You can add screenshots here:
 
+![Model Output](results/faster_rcnn_output.png)
+
 
 ## 🤝 Collaboration & Contact
 
