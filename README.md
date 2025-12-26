@@ -3,7 +3,6 @@
 This project focuses on detecting and counting vehicles from aerial and street-level images.  
 Initially, **YOLOv8** was used as a baseline model, and later upgraded to **Faster R-CNN**, which delivered significantly higher accuracy, more stable bounding boxes, and improved generalization on unseen images.
 
----
 
 ## 📌 Dataset Used
 Vehicles (Open Images) – Public Roboflow Dataset  
@@ -14,7 +13,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 - Pre-annotated COCO JSON format
 - Train / Valid / Test splits with bounding boxes
 
----
 
 ## 🎯 Project Goals
 - Detect multiple vehicle types in images
@@ -22,7 +20,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 - Evaluate performance across models
 - Run inference on unseen images / direct URL inputs
 
----
 
 ## 🧠 Models Used
 
@@ -31,7 +28,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 | **YOLOv8**   | Baseline   | 80%+     | Detects & counts well      | Fast inference, good starter |
 | **Faster R-CNN (Final)** | Best Model | ~100% | Very accurate & stable | Best precision, ideal for deployment |
 
----
 
 ## 🚀 Features
 - Multi-class vehicle detection
@@ -40,7 +36,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 - High-accuracy bounding boxes with enhanced visibility
 - Supports unseen images (generalizes well)
 
----
 
 ## ⚙️ Tech Stack
 - Python
@@ -50,7 +45,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 - OpenCV, PIL, Matplotlib
 - Inference from URL support
 
----
 
 ## 📊 Results & Visuals
 
@@ -61,8 +55,6 @@ Bounding boxes improved with dark/outlined edges for clarity
 You can add screenshots here:
 
 
----
-
 ## 🤝 Collaboration & Contact
 
 If you are interested in improving, deploying, or collaborating on this project:
@@ -71,7 +63,6 @@ If you are interested in improving, deploying, or collaborating on this project:
 - **LinkedIn:** https://www.linkedin.com/in/sanacheema-ml-ai/
 - **Available For:** Research | Projects | Freelance | Long-term Collaboration
 
----
 
 ## ⭐ Acknowledgment
 
@@ -79,7 +70,6 @@ If you are interested in improving, deploying, or collaborating on this project:
 - **Tools Used:** PyTorch, Torchvision, YOLOv8, Faster R-CNN, OpenCV, PIL  
 - Special thanks to the open-source community that made this project possible.
 
----
 
 If you want to extend this project, it can be transformed into:
 
@@ -97,4 +87,4 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 # Additional dependencies
 pip install pycocotools opencv-python matplotlib ultralytics
-## 📌 Final Note
+
