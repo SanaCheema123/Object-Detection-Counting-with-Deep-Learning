@@ -42,8 +42,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 
 ---
 
----
-
 ## ⚙️ Tech Stack
 - Python
 - PyTorch
@@ -51,8 +49,6 @@ Vehicles (Open Images) – Public Roboflow Dataset
 - YOLOv8 (Ultralytics)
 - OpenCV, PIL, Matplotlib
 - Inference from URL support
-
----
 
 ---
 
@@ -84,15 +80,6 @@ If you are interested in improving, deploying, or collaborating on this project:
 - Special thanks to the open-source community that made this project possible.
 
 ---
-## 📌 Setup & Installation
-
-```bash
-# Install PyTorch
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-
-# Additional dependencies
-pip install pycocotools opencv-python matplotlib ultralytics
-## 📌 Final Note
 
 If you want to extend this project, it can be transformed into:
 
@@ -102,3 +89,12 @@ If you want to extend this project, it can be transformed into:
 
 Feel free to reach out — I would be happy to help architect and deploy the solution.
 
+## 📌 Setup & Installation
+
+```bash
+# Install PyTorch
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Additional dependencies
+pip install pycocotools opencv-python matplotlib ultralytics
+## 📌 Final Note
